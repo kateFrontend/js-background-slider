@@ -1,26 +1,21 @@
 # Background Slider
 
-![cover](./assets/)
+![cover](./assets/slider.gif)
 
 ## 🦉 Main information
 
+An image slider that changes images in the same way as background images built with Html, Css and Vanilla Js.
 
-
+The project goal:
+- set up it in HTML, style it with CSS and add the functionality with JavaScript
 
 ## 🦊 Useful links 
 
-### 
+### Element.classList
 
 ```
-
+https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
 ```
-
-### Element.nextElementSibling
-
-```
-
-```
-
 
 
 ## ⚡ Built With
